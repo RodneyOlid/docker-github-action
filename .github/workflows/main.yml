@@ -1,0 +1,5 @@
+git add .
+git commit -m "Automate Docker build and push"
+git push origin main 
+OR
+From vscode git=> commit =>commit and push
